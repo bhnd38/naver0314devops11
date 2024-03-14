@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Naver0314Project {
+module Naver0314JavaProject {
 }
