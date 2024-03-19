@@ -1,6 +1,6 @@
 package Day0319;
 
-public class Ex1_Munje3 {
+public class Ex3_Munje {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
